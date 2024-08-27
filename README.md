@@ -1,15 +1,9 @@
 **Project Structure**
-Your project directory should have the following structure:
-
+<br>Your project directory should have the following structure:
+<br><br>
 web_scraper_app/
-    phone_scraper/
-        __init__.py
-        items.py
-        middlewares.py
-        pipelines.py
-        settings.py
-        spiders/
-            __init__.py
-            phone_spider.py
-    main.py
-    scrapy.cfg
+<br>    phone_scraper/
+<br>        settings.py
+<br>        spiders/
+<br>            phone_spider.py
+<br>    main.py
